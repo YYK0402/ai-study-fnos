@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.ui-dist/
+.server-dist/
+.fnos-build/
+*.log
+.env
+.env.*
+.DS_Store
